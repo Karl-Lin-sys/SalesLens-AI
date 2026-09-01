@@ -1,0 +1,6 @@
+{
+  "name": "SalesLens AI",
+  "description": "Sales coaching intelligence platform analyzing audio calls for transcription, sentiment tracking, and actionable coaching insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
